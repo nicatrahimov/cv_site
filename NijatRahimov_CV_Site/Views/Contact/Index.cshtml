@@ -1,0 +1,69 @@
+﻿@using BusinessLayer.Models.Contacts;
+@using System.Collections.Immutable;
+@model IImmutableList<GetContactModel>
+@{
+    ViewBag.Title = "Contact List";
+    Layout = "_AdminLayout";
+}
+<style>
+    .table-responsive {
+        overflow-x: auto;
+    }
+
+    .table td, .table th {
+        white-space: normal;
+        word-wrap: break-word;
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header border-0">
+            <h1 class="mb-0 text-center">Contact List</h1>
+            @if (Model.Count == 0)
+            {
+                <br>
+                <a href="/abouts/add" class="btn btn-success ml-lg-auto">Insert new <b>contact</b> to database</a>
+            }
+            else
+            {
+                <p class="text-danger text-center">Only one about is allowed. Please delete the existing <b>contact</b> before adding a new one.</p>
+            }
+        </div>
+        @if (Model.Count > 0)
+        {
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Mail</th>
+                    <th>Phone</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Mail</td>
+                    <td>@item.Phone</td>
+                    <td>
+                        <a href="/contacts/update/@item.Id" class="btn btn-warning btn-sm">Update</a>
+                        <a href="/contacts/delete/@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+        }
+        else
+        {
+        <p class="text-center">No contacts found. Please add a new contact.</p>
+        }
+    </div>
+</div>

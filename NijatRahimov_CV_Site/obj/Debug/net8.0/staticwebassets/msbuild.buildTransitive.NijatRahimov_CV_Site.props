@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NijatRahimov_CV_Site.props" />
+</Project>

@@ -1,0 +1,38 @@
+﻿@using BusinessLayer.Models.Portfolios
+@using System.Collections.Immutable
+@model IImmutableList<GetPortfolioModel>
+
+@{
+    ViewBag.Title = "Portfolio List";
+}
+
+<div class="section px-2 px-lg-4 pt-5" id="portfolio">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="marker marker-center">Portfolio </h2>
+        </div>
+        <div class="grid bp-gallery pb-3" data-aos="zoom-in-up" data-aos-delay="100">
+            <div class="grid-sizer"></div>
+            @foreach (var item in Model)
+            {
+                <div class="grid-item">
+                    <a href="@item.Link">
+                        <figure class="portfolio-item">
+                            <div class="col-md-5 offset-md-1" data-aos="fade-left" data-aos-delay="100">
+                                @if(item.Image != null && item.Image.Length > 0){
+                                string imageBase64 = Convert.ToBase64String(item.Image);
+                                string imageSrc = $"data:image/png;base64,{imageBase64}";
+                                <img src="@imageSrc" data-bp="@imageSrc" alt="Image">
+                                }
+                            </div>
+                            <figcaption>
+                                <h4 class="h5 mb-0">@item.Title</h4>
+                                <div>@item.Name</div>
+                            </figcaption>
+                        </figure>
+                    </a>
+                </div>
+            }
+        </div>
+        </div>
+</div>

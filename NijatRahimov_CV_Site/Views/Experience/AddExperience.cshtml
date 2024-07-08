@@ -1,0 +1,80 @@
+﻿@using BusinessLayer.Models.Experiences
+@model AddExperienceModel
+@{
+    ViewBag.Title = "Add Experience";
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">Add new <b>Service</b></h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="AddExperience" method="post" enctype="multipart/form-data">
+                        <div class="form-group">
+                            <label asp-for="Name">Name</label>
+                            <input asp-for="Name" class="form-control" placeholder="Enter experience name" required>
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Description">Description</label>
+                            <input asp-for="Description" class="form-control" placeholder="Enter experience description" required>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CompanyName">Company Name</label>
+                            <input asp-for="CompanyName" class="form-control" placeholder="Enter experience company name" required>
+                            <span asp-validation-for="CompanyName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="DateFrom">Job start year</label>
+                            <input asp-for="DateFrom" type="date" class="form-control" placeholder="Enter experience job start year" required>
+                            <span asp-validation-for="DateFrom" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="DateTo">Job finish year</label>
+                            <input asp-for="DateTo" type="date" class="form-control" placeholder="Enter experience job finish year" id="DateTo">
+                            <span asp-validation-for="DateTo" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input type="checkbox" id="currentJobCheckbox"/>
+                            <label for="currentJobCheckbox">I am still working here</label>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Image">Image</label>
+                            <input asp-for="Image" type="file" class="form-control-file" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">ADD</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var checkbox = document.getElementById('currentJobCheckbox');
+        var dateToInput = document.getElementById('DateTo');
+
+        checkbox.addEventListener('change', function() {
+            if (this.checked) {
+                dateToInput.value = '';
+                dateToInput.disabled = true;
+            } else {
+                dateToInput.disabled = false;
+            }
+        });
+
+        if (checkbox.checked) {
+            dateToInput.disabled = true;
+        }
+    });
+</script>
+

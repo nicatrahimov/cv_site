@@ -1,0 +1,61 @@
+﻿@model System.Collections.Immutable.IImmutableList<EntityLayer.Concrete.Entities.Message>
+
+@{
+ViewBag.Title = "Received Messages";
+Layout = "_AdminLayout";
+}
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header border-0">
+            <h1 class="mb-0 text-center">Received Messages</h1>
+            <br/>
+            @if (Model.Count > 0)
+            {
+                <div class="list-group mt-3">
+                    @foreach (var message in Model)
+                    {
+                        <div class="list-group-item list-group-item-action">
+                            <div class="d-flex w-100 justify-content-between">
+                                <h5 class="mb-1">@message.Name</h5>
+                                <small>@message.Date.ToString("dd/MM/yyyy hh:mm")</small>
+                            </div>
+                            <p class="mb-1">@message.Content</p>
+                            <small>From: @message.Mail</small>
+                            @if (!message.Status)
+                            {
+                            <a asp-controller="Message" asp-action="MarkMessageAsRead" asp-route-messageId="@message.MessageId" class="btn btn-primary btn-sm mark-read-btn">Mark as Read</a>
+                            }
+                        </div>
+                    }
+                </div>
+            }
+            else
+            {
+                <p>No messages received.</p>
+            }
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(".mark-read-btn").click(function () {
+        var messageId = $(this).data("message-id");
+
+        $.post({
+            url: "@Url.Action("MarkMessageAsRead", "Message")",
+            data: { messageId: messageId },
+            success: function (response) {
+                if (response.success) {
+                $(this).closest(".list-group-item").find(".mark-read-btn").remove();
+                } else {
+                    alert("Failed to mark message as read.");
+                }
+            },
+            error: function () {
+                alert("An error occurred while marking message as read.");
+            }
+        });
+    });
+</script>

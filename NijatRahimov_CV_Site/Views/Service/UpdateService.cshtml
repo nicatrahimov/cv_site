@@ -1,0 +1,58 @@
+﻿@model BusinessLayer.Models.Services.UpdateServiceModel
+
+@{
+    ViewBag.Title = "Update Service";
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">Update <b>Service</b></h3>
+                </div>
+                <div class="card-body">
+                    <form action="/services/update" method="post" enctype="multipart/form-data">
+                        <input type="hidden" asp-for="Id" /> 
+
+                        <div class="form-group">
+                            <label asp-for="Title">Title</label>
+                            <input asp-for="Title" class="form-control" required>
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="IsImageUpdate">Update Image?</label>
+                            <select for="IsImageUpdate" class="form-control" id="updateImageSelect">
+                                <option value="false" selected>No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+
+                        <div id="imageUploadSection" style="display:none;">
+                            <div class="form-group">
+                                <label asp-for="Image">Image</label>
+                                <input asp-for="Image" type="file" class="form-control-file">
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary btn-block">Update</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    document.getElementById('updateImageSelect').addEventListener('change', function () {
+        var selectedValue = this.value;
+        var imageUploadSection = document.getElementById('imageUploadSection');
+
+        if (selectedValue === 'true') {
+            imageUploadSection.style.display = 'block';
+        } else {
+            imageUploadSection.style.display = 'none';
+        }
+    });
+</script>

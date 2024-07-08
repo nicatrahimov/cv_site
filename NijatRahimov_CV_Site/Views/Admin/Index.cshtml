@@ -1,0 +1,50 @@
+﻿@{
+ViewBag.Title = "Admin Dashboard";
+Layout = "_AdminLayout";
+}
+
+<div class="jumbotron text-center">
+    <h1 class="display-4">Welcome to the Admin Page!</h1>
+    <p class="lead">Manage your website efficiently and effectively.</p>
+</div>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Messages Section</h5>
+                    <p class="card-text">Check your messages for the latest updates and communications.</p>
+                    <a asp-controller="Message" asp-action="Index" class="btn btn-primary btn-lg">Go to Messages</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                Personal Nijat Rahimov Site
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Go to site Users</h5>
+                <p class="card-text">Show site what are changed</p>
+                <a asp-controller="Default" asp-action="Index" class="btn btn-primary">Go to site</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                Log Out
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Log Out</h5>
+                <p class="card-text">Log out of the admin dashboard.</p>
+                <a asp-controller="Home" asp-action="LogOut" class="btn btn-danger">Log Out</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.deps.json
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.runtimeconfig.json
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.dll
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\bin\Debug\net8.0\DataAccesLayer.pdb
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\bin\Debug\net8.0\EntitiyLayer.dll
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\bin\Debug\net8.0\EntitiyLayer.pdb
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.AssemblyInfo.cs
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAcce.AB8F2C65.Up2Date
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.dll
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\refint\DataAccesLayer.dll
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.pdb
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\DataAccesLayer.genruntimeconfig.cache
+C:\Users\nikoz\RiderProjects\NijatRahimov_CV_Site\DataAccesLayer\obj\Debug\net8.0\ref\DataAccesLayer.dll

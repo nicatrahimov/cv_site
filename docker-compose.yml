@@ -1,0 +1,6 @@
+﻿services:
+  nijatrahimov_cv_site:
+    image: nijatrahimov_cv_site
+    build:
+      context: .
+      dockerfile: NijatRahimov_CV_Site/Dockerfile

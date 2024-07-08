@@ -1,0 +1,67 @@
+﻿@model BusinessLayer.Models.Testimonials.UpdateTestimonialModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">Update <b>Service</b></h3>
+                </div>
+                <div class="card-body">
+                    <form action="/testimonials/update" method="post" enctype="multipart/form-data">
+                        <input type="hidden" asp-for="Id" /> 
+
+                        <div class="form-group">
+                            <label asp-for="ClientName">Client name</label>
+                            <input asp-for="ClientName" class="form-control" required>
+                            <span asp-validation-for="ClientName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CompanyName">Company name</label>
+                            <input asp-for="CompanyName" class="form-control" required>
+                            <span asp-validation-for="CompanyName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Comment">Comment</label>
+                            <input asp-for="Comment" class="form-control" required>
+                            <span asp-validation-for="Comment" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="IsImageUpdate">Update Image?</label>
+                            <select for="IsImageUpdate" class="form-control" id="updateImageSelect">
+                                <option value="false" selected>No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+
+                        <div id="imageUploadSection" style="display:none;">
+                            <div class="form-group">
+                                <label asp-for="Image">Image</label>
+                                <input asp-for="Image" type="file" class="form-control-file">
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary btn-block">Update</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    document.getElementById('updateImageSelect').addEventListener('change', function () {
+        var selectedValue = this.value;
+        var imageUploadSection = document.getElementById('imageUploadSection');
+
+        if (selectedValue === 'true') {
+            imageUploadSection.style.display = 'block';
+        } else {
+            imageUploadSection.style.display = 'none';
+        }
+    });
+</script>

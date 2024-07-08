@@ -1,0 +1,87 @@
+﻿@using BusinessLayer.Models.About
+@using System.Collections.Immutable
+@model IImmutableList<GetAboutModel>
+
+@{
+ViewBag.Title = "About List";
+Layout = "_AdminLayout";
+}
+
+<style>
+    .table-responsive {
+        overflow-x: auto;
+    }
+
+    .table td, .table th {
+        white-space: normal;
+        word-wrap: break-word;
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header border-0">
+            <h1 class="mb-0 text-center">About List</h1>
+            @if (Model.Count == 0)
+            {
+            <br>
+            <a href="/abouts/add" class="btn btn-success ml-lg-auto">Insert new <b>about</b> to database</a>
+            }
+            else
+            {
+            <p class="text-danger text-center">Only one about is allowed. Please delete the existing <b>about</b> before adding a new one.</p>
+            }
+        </div>
+        @if (Model.Count > 0)
+        {
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Age</th>
+                    <th>Mail</th>
+                    <th>Address</th>
+                    <th>Image</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+                    <td>@item.Age</td>
+                    <td>@item.Mail</td>
+                    <td>@item.Address</td>
+                    <td>
+                        @if (item.Image != null && item.Image.Length > 0)
+                        {
+                        string imageBase64 = Convert.ToBase64String(item.Image);
+                        <img src="data:image/png;base64,@imageBase64" alt="Image" class="img-thumbnail" style="max-height: 100px;">
+                        }
+                        else
+                        {
+                        <span>No Image</span>
+                        }
+                    </td>
+                    <td>
+                        <a href="/abouts/update/@item.Id" class="btn btn-warning btn-sm">Update</a>
+                        <a href="/abouts/delete/@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+        }
+        else
+        {
+        <p class="text-center">No about found. Please add a new about.</p>
+        }
+    </div>
+</div>

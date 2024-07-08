@@ -1,0 +1,36 @@
+﻿@model EntitiyLayer.Concrete.Skill
+
+@{
+    ViewBag.Title = "Update Skill";
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">Update Skill</h3>
+                </div>
+                <div class="card-body">
+                    <form action="/skills/update" method="post">
+                        <input type="hidden" asp-for="SkillId" />
+                        <div class="form-group">
+                            <label asp-for="Title"></label>
+                            <input asp-for="Title" class="form-control" required />
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Value"></label>
+                            <input asp-for="Value" class="form-control" required max="100" min="0" />
+                            <span asp-validation-for="Value" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-success btn-block">UPDATE</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

@@ -1,0 +1,57 @@
+﻿@model NijatRahimov_CV_Site.Requests.Abouts.CreateAboutRequest
+
+@{
+ViewBag.Title = "Add About";
+Layout = "_AdminLayout";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">Add new <b>About</b></h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="AddAbout" method="post" enctype="multipart/form-data"> <!-- Add enctype attribute -->
+                        <div class="form-group">
+                            <label asp-for="Title">Title</label>
+                            <input asp-for="Title" class="form-control" placeholder="Enter about Title" required>
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Description">Description</label>
+                            <input asp-for="Description" class="form-control" placeholder="Enter Description" required>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Age">Age</label>
+                            <input asp-for="Age" type="number" class="form-control" placeholder="Enter age" required>
+                            <span asp-validation-for="Age" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Mail">Mail</label>
+                            <input asp-for="Mail" type="email" class="form-control" placeholder="Enter mail" required>
+                            <span asp-validation-for="Mail" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Phone">Phone</label>
+                            <input asp-for="Phone" type="tel" class="form-control" placeholder="Enter phone number" inputmode="numeric" required>
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Address">Address</label>
+                            <input asp-for="Address" class="form-control" placeholder="Enter Address" required>
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Image">Image</label>
+                            <input asp-for="Image" type="file" class="form-control-file" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">ADD</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

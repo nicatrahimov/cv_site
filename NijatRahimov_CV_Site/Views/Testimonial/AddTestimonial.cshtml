@@ -1,0 +1,46 @@
+﻿@model BusinessLayer.Models.Testimonials.AddTestimonialModel
+
+@{
+    ViewBag.Title = "Add Testimonial";
+    Layout = "_AdminLayout";
+}
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">Add new <b>testimonial</b> to database</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="AddTestimonial" method="post" enctype="multipart/form-data"> 
+                        <div class="form-group">
+                            <label asp-for="ClientName">Client Name</label>
+                            <input asp-for="ClientName" class="form-control" placeholder="Enter client's name" required>
+                            <span asp-validation-for="ClientName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CompanyName">Company Name</label>
+                            <input asp-for="CompanyName" class="form-control" placeholder="Enter company's name" required>
+                            <span asp-validation-for="CompanyName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Comment">Comment</label>
+                            <input asp-for="Comment" class="form-control" placeholder="Enter clients comment" required>
+                            <span asp-validation-for="Comment" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ClientName">Client Name</label>
+                            <input asp-for="ClientName" class="form-control" placeholder="Enter about Title" required>
+                            <span asp-validation-for="ClientName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Image">Image</label>
+                            <input asp-for="Image" type="file" class="form-control-file" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">ADD</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
