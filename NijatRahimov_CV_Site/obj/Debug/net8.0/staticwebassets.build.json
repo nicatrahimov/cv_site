@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CxceM4fGDF3md3RMBuSK6IuG8wYgHl1wRGF/VlkebP4=",
+  "Hash": "bss25z3GZiiZVcTnlVH0jzSvOu1M4kRy+DqL1dxzrhU=",
   "Source": "NijatRahimov_CV_Site",
   "BasePath": "_content/NijatRahimov_CV_Site",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "NijatRahimov_CV_Site\\wwwroot",
       "Source": "NijatRahimov_CV_Site",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NijatRahimov_CV_Site.styles.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NijatRahimov_CV_Site.styles.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "NijatRahimov_CV_Site.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NijatRahimov_CV_Site.styles.css"
+      "OriginalItemSpec": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\NijatRahimov_CV_Site.styles.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NijatRahimov_CV_Site.bundle.scp.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NijatRahimov_CV_Site.bundle.scp.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "NijatRahimov_CV_Site.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NijatRahimov_CV_Site.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NijatRahimov_CV_Site.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\.gitignore",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\.gitignore",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/.gitignore",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\.gitignore"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\css\\argon.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\css\\argon.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/css/argon.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\css\\argon.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\css\\argon.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\css\\argon.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/css/argon.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\css\\argon.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\img\\blue.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\img\\blue.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/img/blue.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\img\\blue.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\img\\favicon.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\img\\favicon.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/img/favicon.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\js\\argon.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\js\\argon.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/js/argon.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\js\\argon.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\js\\argon.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\js\\argon.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/js/argon.min.js",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\js\\argon.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\all.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\all.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/all.min.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\bootstrap-datetimepicker.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\bootstrap-datetimepicker.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/bootstrap-datetimepicker.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\bootstrap-datetimepicker.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\bootstrap.bundle.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery-scrollLock.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery-scrollLock.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/jquery-scrollLock.min.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery-scrollLock.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/jquery.min.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery.scrollbar.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery.scrollbar.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/jquery.scrollbar.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\jquery.scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\js.cookie.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\js.cookie.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/js.cookie.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\js.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\moment.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\moment.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/moment.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\nucleo.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\argon-dashboard-master\\assets\\vendor\\nucleo.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "argon-dashboard-master/assets/vendor/nucleo.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\argon-dashboard-master\\assets\\vendor\\nucleo.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\css\\site.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\favicon.ico",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Abouts\\photo_13090298-b32c-4918-aa29-a8112c2c487d.jpg",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Abouts\\photo_13090298-b32c-4918-aa29-a8112c2c487d.jpg",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/Abouts/photo_13090298-b32c-4918-aa29-a8112c2c487d.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Abouts\\photo_13090298-b32c-4918-aa29-a8112c2c487d.jpg"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Experiences\\photo_d1a6b0f8-95ad-4b30-b5cb-af071fbf255d.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Experiences\\photo_d1a6b0f8-95ad-4b30-b5cb-af071fbf255d.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/Experiences/photo_d1a6b0f8-95ad-4b30-b5cb-af071fbf255d.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Experiences\\photo_d1a6b0f8-95ad-4b30-b5cb-af071fbf255d.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\icons8-admin-32.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\icons8-admin-32.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/icons8-admin-32.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\icons8-admin-32.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\icons8-tornado-32.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\icons8-tornado-32.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/icons8-tornado-32.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\icons8-tornado-32.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Portfolios\\photo_33874e21-45b8-4220-bd9d-de486f403a86.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Portfolios\\photo_33874e21-45b8-4220-bd9d-de486f403a86.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/Portfolios/photo_33874e21-45b8-4220-bd9d-de486f403a86.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Portfolios\\photo_33874e21-45b8-4220-bd9d-de486f403a86.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_0657f510-f289-4125-883b-6e439e1f9683.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_0657f510-f289-4125-883b-6e439e1f9683.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/Services/photo_0657f510-f289-4125-883b-6e439e1f9683.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Services\\photo_0657f510-f289-4125-883b-6e439e1f9683.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_2d342ce9-ac8b-478e-be22-37b9d6235e96.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_2d342ce9-ac8b-478e-be22-37b9d6235e96.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/Services/photo_2d342ce9-ac8b-478e-be22-37b9d6235e96.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Services\\photo_2d342ce9-ac8b-478e-be22-37b9d6235e96.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_31c69224-2b3a-457d-9004-e6b9f7b3c7a8.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_31c69224-2b3a-457d-9004-e6b9f7b3c7a8.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/Services/photo_31c69224-2b3a-457d-9004-e6b9f7b3c7a8.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Services\\photo_31c69224-2b3a-457d-9004-e6b9f7b3c7a8.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_40a6d4c8-96f4-4a5d-ab85-d1e2c8caba37.png",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Images\\Services\\photo_40a6d4c8-96f4-4a5d-ab85-d1e2c8caba37.png",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Images/Services/photo_40a6d4c8-96f4-4a5d-ab85-d1e2c8caba37.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Services\\photo_40a6d4c8-96f4-4a5d-ab85-d1e2c8caba37.png"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\js\\site.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\aos.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\aos.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/aos.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\aos.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\bootstrap.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/bootstrap.css",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\bootstrap.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\bootstrap.min.css.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\css\\all.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\css\\all.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/css/all.css",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\css\\all.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\css\\all.min.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\css\\all.min.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/css/all.min.css",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\LICENSE.txt",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\LICENSE.txt",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/LICENSE.txt",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.eot",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.svg",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.woff",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.eot",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.svg",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.woff",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.eot",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.svg",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.woff",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\main.css",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\css\\main.css",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/css/main.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\favicon.ico",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\favicon.ico",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/favicon.ico",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\images\\hello4.svg",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\images\\hello4.svg",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/images/hello4.svg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\images\\hello4.svg"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\index.html",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\index.html",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/index.html",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\index.html"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\LICENSE-free.txt",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\LICENSE-free.txt",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/LICENSE-free.txt",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\LICENSE-free.txt"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\README.txt",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\README.txt",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/README.txt",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\aos.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\aos.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/aos.min.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\aos.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\BigPicture.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\BigPicture.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/BigPicture.min.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\BigPicture.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\bootstrap.bundle.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\bootstrap.bundle.min.js.map",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\imagesloaded.pkgd.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\imagesloaded.pkgd.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/imagesloaded.pkgd.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\imagesloaded.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\main.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\main.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/main.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\main.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\masonry.pkgd.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\masonry.pkgd.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/masonry.pkgd.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\Template\\scripts\\masonry.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\purecounter.min.js",
+      "Identity": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\Template\\scripts\\purecounter.min.js",
       "SourceId": "NijatRahimov_CV_Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nikoz\\OneDrive\\Masaüstü\\NijatRahimov_CV_Site\\NijatRahimov_CV_Site\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NIJATR\\Desktop\\cv_site\\NijatRahimov_CV_Site\\wwwroot\\",
       "BasePath": "_content/NijatRahimov_CV_Site",
       "RelativePath": "Template/scripts/purecounter.min.js",
       "AssetKind": "All",

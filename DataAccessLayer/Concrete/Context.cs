@@ -10,7 +10,42 @@ public class Context : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder
-            .UseNpgsql("Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=1312");
+            .UseNpgsql("Host=dpg-cqqbrgqj1k6c73df8a10-a.frankfurt-postgres.render.com;Port=5432;Database=personal_site_hkau;Username=nicat;Password=MLYNv0FG7swvOdmqoZ8JC9VlRVYMfxLg");
+    }
+    
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<About>()
+            .ToTable("Abouts");
+
+        modelBuilder.Entity<Contact>()
+            .ToTable("Contacts");
+
+        modelBuilder.Entity<Experience>()
+            .ToTable("Experiences");
+
+        modelBuilder.Entity<Feature>()
+            .ToTable("Features");
+
+        modelBuilder.Entity<Message>()
+            .ToTable("Messages");
+
+        modelBuilder.Entity<Portfolio>()
+            .ToTable("Portfolios");
+
+        modelBuilder.Entity<Service>()
+            .ToTable("Services");
+        
+        modelBuilder.Entity<Skill>()
+            .ToTable("Skills");
+
+        modelBuilder.Entity<Testimonial>()
+            .ToTable("Testimonials");
+        
+        modelBuilder.Entity<User>()
+            .ToTable("PermittedUsers");
+
+        base.OnModelCreating(modelBuilder);
     }
 
     public DbSet<About> Abouts { get; set; }

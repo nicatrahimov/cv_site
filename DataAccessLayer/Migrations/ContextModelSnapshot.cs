@@ -60,7 +60,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("AboutId");
 
-                    b.ToTable("Abouts");
+                    b.ToTable("Abouts", (string)null);
                 });
 
             modelBuilder.Entity("EntitiyLayer.Concrete.Contact", b =>
@@ -85,7 +85,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("ContactId");
 
-                    b.ToTable("Contacts");
+                    b.ToTable("Contacts", (string)null);
                 });
 
             modelBuilder.Entity("EntitiyLayer.Concrete.Experience", b =>
@@ -120,7 +120,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("ExperienceId");
 
-                    b.ToTable("Experiences");
+                    b.ToTable("Experiences", (string)null);
                 });
 
             modelBuilder.Entity("EntitiyLayer.Concrete.Feature", b =>
@@ -145,38 +145,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("FeatureId");
 
-                    b.ToTable("Features");
-                });
-
-            modelBuilder.Entity("EntitiyLayer.Concrete.Message", b =>
-                {
-                    b.Property<int>("MessageId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("MessageId"));
-
-                    b.Property<string>("Content")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<DateTime>("Date")
-                        .HasColumnType("timestamp with time zone");
-
-                    b.Property<string>("Mail")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<bool>("Status")
-                        .HasColumnType("boolean");
-
-                    b.HasKey("MessageId");
-
-                    b.ToTable("Messages");
+                    b.ToTable("Features", (string)null);
                 });
 
             modelBuilder.Entity("EntitiyLayer.Concrete.Portfolio", b =>
@@ -205,7 +174,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("PortfolioId");
 
-                    b.ToTable("Portfolios");
+                    b.ToTable("Portfolios", (string)null);
                 });
 
             modelBuilder.Entity("EntitiyLayer.Concrete.Service", b =>
@@ -226,7 +195,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("ServiceId");
 
-                    b.ToTable("Services");
+                    b.ToTable("Services", (string)null);
                 });
 
             modelBuilder.Entity("EntitiyLayer.Concrete.Skill", b =>
@@ -247,18 +216,25 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("SkillId");
 
-                    b.ToTable("Skills");
+                    b.ToTable("Skills", (string)null);
                 });
 
-            modelBuilder.Entity("EntitiyLayer.Concrete.SocialMedia", b =>
+            modelBuilder.Entity("EntityLayer.Concrete.Entities.Message", b =>
                 {
-                    b.Property<int>("SocialMediaId")
+                    b.Property<int>("MessageId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("SocialMediaId"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("MessageId"));
 
-                    b.Property<string>("IconUrl")
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Mail")
                         .IsRequired()
                         .HasColumnType("text");
 
@@ -269,13 +245,9 @@ namespace DataAccessLayer.Migrations
                     b.Property<bool>("Status")
                         .HasColumnType("boolean");
 
-                    b.Property<string>("Url")
-                        .IsRequired()
-                        .HasColumnType("text");
+                    b.HasKey("MessageId");
 
-                    b.HasKey("SocialMediaId");
-
-                    b.ToTable("SocialMedias");
+                    b.ToTable("Messages", (string)null);
                 });
 
             modelBuilder.Entity("EntityLayer.Concrete.Testimonial", b =>
@@ -304,7 +276,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("TestimonialId");
 
-                    b.ToTable("Testimonials");
+                    b.ToTable("Testimonials", (string)null);
                 });
 
             modelBuilder.Entity("EntityLayer.Concrete.User", b =>
@@ -318,7 +290,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasKey("Username");
 
-                    b.ToTable("Users");
+                    b.ToTable("PermittedUsers", (string)null);
                 });
 #pragma warning restore 612, 618
         }
